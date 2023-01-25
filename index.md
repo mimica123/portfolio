@@ -1,3 +1,4 @@
+```
 ---
 layout: default
 ---
@@ -9,11 +10,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+```
+# Sentiment Analysis With Product Recomendation
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
+Giants such as Amazon and Netflix took sentiment analysis to another level to attract more people based in users preferences and the reward of that effort has been generated billion of dollars. In social media the most common post is a picture which in the majority of cases represents users mood and emotions. This was the motivation to develop an application that can connects pictures linked to users emotions with a product recommendation as a strategy to attract customers and increase purchases.
+```
 ## Header 2
 
 > This is a blockquote following a header.
@@ -36,7 +37,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
-
+```
 #### Header 4
 
 *   This is an unordered list following a header.
@@ -113,7 +114,7 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
+```
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
